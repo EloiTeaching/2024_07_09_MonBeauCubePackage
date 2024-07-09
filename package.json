@@ -9,9 +9,7 @@
       "unity"
     ],
     "author": {
-      "name": "Eloi Teaching",
-    },
-    "dependencies": {
+      "name": "Eloi Teaching"
     },
     "repository": {
       "type": "git",
