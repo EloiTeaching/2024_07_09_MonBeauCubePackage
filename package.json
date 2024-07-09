@@ -1,0 +1,27 @@
+{
+    "name": "be.eloiteaching.monbeaucube",
+    "version": "1.0.0",
+    "displayName": "Le manifique cube d'Eloi Teaching",
+    "description": "Simplement un cube",
+    "unity": "2020.3",
+    "keywords": [
+      "tools",
+      "unity"
+    ],
+    "author": {
+      "name": "Eloi Teaching",
+    },
+    "dependencies": {
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "samples": [
+      {
+        "displayName": "Scène d'example",
+        "description": "Une petit scène d'example",
+        "path": "Scene"
+      }
+    ]
+  }
