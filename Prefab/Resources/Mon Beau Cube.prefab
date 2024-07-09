@@ -10,6 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4326785454288381462}
   - component: {fileID: 6812096557315326564}
+  - component: {fileID: 8042841986179764653}
+  - component: {fileID: 8525769430132759070}
+  - component: {fileID: 8159735569314070115}
   m_Layer: 0
   m_Name: Mon Beau Cube
   m_TagString: Untagged
@@ -55,6 +58,49 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8042841986179764653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2085614670942734674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5f6b0e2be14487498b2845eab879b67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_firstName: Eloi
+  m_lastName: Teaching
+  m_portfolioUrl: 
+  m_githubUrl: https://github.com/EloiTeaching?tab=repositories
+  m_linkedinUrl: 
+--- !u!114 &8525769430132759070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2085614670942734674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd5a90e922b18454486c7cca6c899e7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_cubeRoot: {fileID: 4326785454288381462}
+--- !u!114 &8159735569314070115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2085614670942734674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982766e3044ddb147a0d138e93e5638e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_guid: 00f2f32d-2d70-4998-8967-7494cae744eb
 --- !u!1 &3533956138656994482
 GameObject:
   m_ObjectHideFlags: 0
